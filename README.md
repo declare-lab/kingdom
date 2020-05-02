@@ -1,2 +1,2 @@
-# kingdom
-Domain Adaptation using Commonsense Knowledge for sentiment analysis
+# KinGDOM: Knowledge-Guided DOMain adaptationfor sentiment analysis
+
