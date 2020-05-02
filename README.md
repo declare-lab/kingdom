@@ -1,2 +1,2 @@
-# KinGDOM: Knowledge-Guided DOMain adaptationfor sentiment analysis
+# KinGDOM: Knowledge-Guided DOMain adaptation for sentiment analysis
 
