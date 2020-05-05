@@ -5,11 +5,11 @@
 ![Alt text](KinGDOM.jpeg?raw=true "KinGDOM framework")
 
 ### Requirements
-scipy==1.3.1
-gensim==3.8.1
-torch==1.4.0
-numpy==1.18.2
-scikit_learn==0.22.2.post1
+- scipy==1.3.1
+- gensim==3.8.1
+- torch==1.4.0
+- numpy==1.18.2
+- scikit_learn==0.22.2.post1
 
 ### Execution
 `python train.py`
