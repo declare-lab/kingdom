@@ -86,7 +86,7 @@ def generate_sampled_graph_and_labels(triplets, sample_size, split_size, num_ent
 
 def generate_graph(triplets, num_rels):
     """
-        Get feature extraction graph and without negative sampling.
+        Get feature extraction graph without negative sampling.
     """
     edges = triplets
     src, rel, dst = edges.transpose()
