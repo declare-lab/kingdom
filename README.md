@@ -25,7 +25,6 @@ python train_and_extract_graph_features.py
 
 We provide pretrained graph features in the `graph_features` directory. Note that, executing the above commands will overwrite the provided feature files.
 
-
 Train the main domain adaptation model:
 
 ```bash
@@ -38,4 +37,6 @@ Some of the RGCN functionalities are adapted from https://github.com/JinheonBaek
 
 Please cite the following paper if you find this code useful in your work.
 
-`KinGDOM: Knowledge-Guided DOMain adaptation for sentiment analysis. D. Ghosal, D. Hazarika, N. Majumder, A. Roy, S. Poria, R. Mihalcea. ACL 2020.`
+```bash
+KinGDOM: Knowledge-Guided DOMain adaptation for sentiment analysis. D. Ghosal, D. Hazarika, N. Majumder, A. Roy, S. Poria, R. Mihalcea. ACL 2020.
+```
